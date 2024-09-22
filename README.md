@@ -1,2 +1,9 @@
-# ender3v2
-This is a back up repo for my Creality Ender 3 v2. It is running Klipper Mainsail and is equipped with a Creality sprite pro extruder, beacon probe, and dual z axes.
+# Creality Ender 3v2 - Settings
+
+This is a place to store the settings for my Creality Ender 3 v2. 
+
+OS: Klipper Mainsail
+Bed: Gulfcoast Robotics
+Extruder: Creality Sprite Pro
+Probe: Beacon H
+Dual Z Axis
