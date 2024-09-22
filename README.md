@@ -7,3 +7,8 @@ Bed: Gulfcoast Robotics
 Extruder: Creality Sprite Pro  
 Probe: Beacon H  
 Dual Z Axis  
+
+Mint Green RGB:  
+R: 173    
+G: 235  
+B: 179  
